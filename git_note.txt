@@ -94,6 +94,7 @@ authorisation success
 ------------------------
 gitaccess in the Note
 --------------------
+step by step all steps
 $ git push -u origin main
 remote: Permission to SwarupJava/TaskList1.git denied to SwarupKP127.
 fatal: unable to access 'https://github.com/SwarupJava/TaskList1.git/': The requested URL returned error: 403
