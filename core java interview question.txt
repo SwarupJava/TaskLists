@@ -1,0 +1,223 @@
+---------------------------------------
+why java is more popular in market
+----------------------------------
+what is the difference between jdk, jre and jvm
+-----------------------------------
+java is platform dependent or not? why
+-------------------------------
+jdk is platform dependent or not? why
+--------------------------------
+java follows oops principle or not
+--------------------------------
+what is constructor
+------------------------------------
+how many types of constructor is there in java
+--------------------------------------
+If there is no constructor in a class, who automatically creates a default constructor.
+------------------------------------
+what is constructor overloading in java
+-----------------------------
+what is data hiding
+---------------------------
+what is abastraction
+---------------------------
+what is polymorphism
+---------------------------
+what is encapsulation
+---------------------------
+Difference between method Overloading and Method Overriding in java
+--------------------------
+Can we override static method?
+----------------------------------
+Why can we not override static method?
+----------------------------------
+Can we override java main method?
+----------------------------------------
+what is Covariant Return Type
+------------------------------------------
+what is super keyword
+--------------------------------
+what is this keyword
+--------------------------------
+difference between super and key
+------------------------------------
+what is final keword
+-----------------------------
+difference between final, finally and finalize
+-------------------------------
+what is static binding
+---------------------------------
+what is dynamic binding
+-----------------------------------
+difference between static binding and dynamic binding
+-------------------------------------
+java follows call by value or call by reference
+-------------------------------------
+how many ways can we create string object
+-----------------------------------
+what is string literal
+--------------------------------
+why string is immutable
+-----------------------------------------
+how to create immutable class in java
+------------------------------------
+what is memory management in java
+----------------------------------------
+difference between string, stringbuffer and stringbuilder
+-------------------------------------
+what is exception handling in java
+---------------------------------
+what is hierarchy of Java Exception classes
+----------------------------------------
+what is types of Java Exceptions
+------------------------------------------
+what is try
+-------------------------------
+what is catch
+------------------------------
+what is throw
+------------------------------------
+what is throws
+----------------------------------------
+what is finally
+------------------------------------
+difference between throw and throws
+-----------------------------------
+what is ArithmeticException
+----------------------------------------
+what is NullPointerException
+---------------------------------------
+what is NumberFormatException
+------------------------------------------
+what is ArrayIndexOutOfBoundsException
+----------------------------------
+what is exception propagation in java
+------------------------------------
+Can we rethrow an exception?
+-------------------------------------
+what is Exception Handling with Method Overriding in Java
+---------------------------------------
+import java.io.*;    
+class Parent{    
+  void msg()throws ArithmeticException {  
+    System.out.println("parent method");  
+  }    
+}    
+    
+public class TestExceptionChild2 extends Parent{    
+  void msg()throws Exception {  
+    System.out.println("child method");  
+  }    
+    
+  public static void main(String args[]) {    
+   Parent p = new TestExceptionChild2();    
+     
+   try {    
+   p.msg();    
+   }  
+   catch (Exception e){}   
+  
+  }    
+}
+
+it works fine or not
+---------------------------------------------
+what is custome exception in java
+-----------------------------------------------
+what is multi threading in java
+----------------------------------
+what is Life Cycle of a Thread
+--------------------------------
+how many ways create a thread
+--------------------------------------
+what is thread schedular in java
+------------------------------
+what is The sleep() Method Syntax
+-------------------------------
+Can we start a thread twice
+--------------------------------
+What if we call Java run() method directly instead start() method?
+-------------------------------------
+Description of The Overloaded join() Method
+------------------------------
+Syntax of join method
+---------------------------------------
+what is Thread Priority
+------------------------------------------------
+what Daemon Thread in Java
+--------------------------------------------------
+Why JVM terminates the daemon thread if there is no user thread?
+------------------------------------------
+what is thread pool in java
+--------------------------------------
+what is thread group in java
+------------------------------------------
+When does the JVM shut down?
+---------------------------------------
+How to perform single task by multiple threads in Java?
+-------------------------------------
+How to perform multiple tasks by multiple threads (multitasking in multithreading)?
+-------------------------------------------
+what is garbage collection in java
+---------------------------------------
+what is Synchronization in java
+-------------------------------------
+what is Inter-thread communication in java
+------------------------------------
+what is Synchronized Block in Java
+-----------------------------------------
+what is Deadlock in Java
+-----------------------------------------
+How to Avoid Deadlock in Java?
+--------------------------------------
+difference between wait() and sleep() in java
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
