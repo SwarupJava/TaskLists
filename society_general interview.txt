@@ -1,0 +1,21 @@
+--------------------------------
+what is the difference between immutable and final
+----------------------------------
+what is immutable
+-------------------------------
+how to create immutable class in java
+-----------------------------------
+what is java memory management in java
+-----------------------------
+stackoverflow issue resolved in which java version
+--------------------------------------
+how hash map works internally
+----------------------------------------
+how to create spring boot application
+-------------------------------
+which annotation is using in spring boot application
+------------------------------------
+group by clause example
+----------------------------------------
+where clause example
+---------------------------------
