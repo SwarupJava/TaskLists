@@ -27,3 +27,14 @@ what is advantage of maven
 ------------------------------------
 how to monitoring log in springboot application
 -------------------------------------
+String s="Hi Swarup Good Morning"
+String output="Hi Good Swarup Morning"
+-------------------------------
+how many cache is there in hibernate
+------------------------------
+how to set first level cache is disable
+-------------------------------------
+how to convert json to object in coding
+------------------------------------
+how to rollback one transaction
+------------------------------------
