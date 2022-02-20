@@ -1,0 +1,46 @@
+------------------------------------
+create new repository
+-----------------------------------
+workspace git bash here
+-------------------------------------
+
+
+--------------------------------
+git init
+------------------------------
+git status
+-------------------------------
+git add README.md
+----------------------------
+git commit -m "first commit"
+-------------------------------
+git branch -M main
+---------------------------------
+ git remote add origin https://github.com/SwarupJava/WebProject.git
+-------------------------------
+git add --a
+-------------------------------
+git commit -m 'commit'
+-----------------------------
+git push -u origin main
+----------------------------------
+git branch -M main
+--------------------------------
+git remote add origin https://github.com/SwarupJava/WebProject.git
+-----------------------------------
+git push -u origin main
+---------------------------------
+git remote remove origin
+----------------------------
+git remote add origin https://github.com/SwarupJava/WebProject.git
+----------------------------
+git push -u origin main
+-----------------------------
+fatal: unable to access 'https://github.com/SwarupJava/WebProject.git/': The requested URL returned error: 403
+---------------------------
+git remote remove origin
+------------------------------
+git remote add origin https://SwarupJava@github.com/SwarupJava/WebProject.git
+-----------------------
+git push -u origin main
+------------------------
