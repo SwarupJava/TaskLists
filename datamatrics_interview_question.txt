@@ -1,0 +1,69 @@
+----------------------------
+what is the project flow in eNAM
+------------------------------------------
+HOW TO READ data from application.properties
+-----------------------------
+how to set jdbc connection
+------------------------------------
+what is static binding
+------------------------------------
+what is dynamic binding
+------------------------------------
+what is function method overriding
+----------------------------------------
+what is arraylist
+---------------------------------
+what is the use of arraylist
+-----------------------------------
+what is hashset
+-----------------------------------
+what is the use of hashset
+------------------------------------
+list contains duplicate data or not
+--------------------------------------
+set contains duplicate data or not
+----------------------------------------
+hashmap contains nullkey or not
+-------------------------------------------
+why hashmap contains unique nullkey
+---------------------------------------
+what is primitive data
+--------------------------------------------
+what is non-primitive data
+------------------------------------------
+what is string
+-------------------------------------------
+what is ddl and dml
+-----------------------------------
+arraylist how to insert all data into db
+------------------------------------------
+what is AutoCommit
+-----------------------------------------------
+why i will do mavaen clean, maven install, maven build
+----------------------------------------
+when maven war will create in maven install or maven build
+------------------------------------------
+how to add manually normal jar in war
+after clean target folder war jar add in lib folder
+--------------------------------------------
+how to write procedure
+----------------------------------------
+how to handle exception hadling in java
+----------------------------------
+where connection will close in java
+-----------------------------------
+why connection close logic will write in finally block
+------------------------------------------
+how to write code finally block will not execute
+answer:System.exit(1)
+------------------------------------
+what is parameterised constructor
+--------------------------------
+where i will use parameterised constructor
+--------------------------------
+what is static block
+-----------------------------------
+what is instance block
+--------------------------------------
+where static block will use
+----------------------------------------------
