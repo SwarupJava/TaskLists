@@ -1,0 +1,31 @@
+------------------------------------
+what is volatile
+---------------------------------
+what is transient
+----------------------------------------
+what is oops
+----------------------------------
+how class loader will work
+------------------------------------
+how to decide ArrayList or LinkedList will use
+----------------------------------
+how to do hash map object is thread safe
+---------------------------------
+what is synchronization
+-----------------------------------
+what is functional interface
+---------------------------------
+what is lamda expression
+------------------------------
+what is the advantage of functional interface
+-------------------------------
+where to use functional interface
+-------------------------------------
+what is advantage of spring boot over spring
+---------------------------------
+what is the difference between map and flatmap
+------------------------------------
+what is Fail-fast and Fail-safe in Java
+-------------------------------------
+how to create singleton class
+---------------------------------
