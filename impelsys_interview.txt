@@ -43,3 +43,7 @@ what is the advantage of microservice
 ------------------------------------
 what is the advantage of hibernate
 -------------------------------------
+how to constructing a object
+------------------------------------
+how to destructing a object
+--------------------------------------
