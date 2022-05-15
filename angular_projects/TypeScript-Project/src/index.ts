@@ -1,5 +1,5 @@
-let nam:string = "niketana";
+let username:string = "John";
 
-function loadn(){
-    document.getElementById("container").innerHTML = `Hello ! ${nam}`;
+function bodyload(){
+    document.getElementById("container").innerHTML = `Hello ! ${username}`;
 }
