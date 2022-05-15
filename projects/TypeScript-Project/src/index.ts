@@ -1,4 +1,5 @@
-let username:string = "umakanta";
+let name:string = "umesh";
+
 function bodyload(){
-    document.getElementById("container").innerHTML = `Hello ! ${username}`;
+    document.getElementById("container").innerHTML = `Hello ! ${name}`;
 }
