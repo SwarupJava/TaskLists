@@ -1,4 +1,3 @@
-//let username:string = prompt("Enter user name");
 var username = prompt("Enter user name"); //in javascript prompt have ok and cancel button
 function DisplayName() {
     if (username == null) {
