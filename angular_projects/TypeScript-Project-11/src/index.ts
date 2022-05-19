@@ -11,3 +11,5 @@ console.log(`Mobile Price : ${products[1].Price}`);
 
 
 //npm init -y
+//tsc index.ts
+//node index.js

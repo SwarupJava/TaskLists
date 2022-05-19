@@ -4,3 +4,5 @@ var products = [
 ];
 console.log("Mobile Price : ".concat(products[1].Price));
 //npm init -y
+//tsc index.ts
+//node index.js
