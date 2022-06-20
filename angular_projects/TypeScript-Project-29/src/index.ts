@@ -12,6 +12,6 @@ class Product{
 }
 let tv = new Product();
 tv.Print();
-
+//npm init -y
 //tsc index.ts
 //node index.js
