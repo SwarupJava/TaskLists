@@ -9,11 +9,11 @@ class Product{
 }
 
 let obj = new Product();
-obj.Print("TV");
-//obj.Print("TV", 35000.30);
+//obj.Print("TV");
+obj.Print("TV", 45000.44);
 
 
 //npm init -y
 //tsc index.ts
 //node index.js
-//choose anyone [obj.Print("TV") or obj.Print("TV", 35000.30)]
+//choose anyone [obj.Print("TV") or obj.Print("TV", 45000.44)]
