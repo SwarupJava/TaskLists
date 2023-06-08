@@ -24,7 +24,14 @@ let NareshIT:ICollege = {
 
 
 
+
+
+//Multiple Inheritence
+
 //npm init -y
 //tsc index.ts
 //node index.js
-//Multiple Inheritence
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-22>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-22\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-22\src>node index.js

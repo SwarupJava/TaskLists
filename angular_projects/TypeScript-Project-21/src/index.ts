@@ -49,7 +49,12 @@ for(var property in HdfcBankApp_Govt) {
 
 
 
+//Multi Level Inheritance
+
 //npm init -y
 //tsc index.ts
 //node index.js
-//Multi Level Inheritance
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-21>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-21\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-21\src>node index.js

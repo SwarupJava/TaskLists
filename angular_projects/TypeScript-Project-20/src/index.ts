@@ -29,7 +29,14 @@ for(var property in HdfcBankApp_Legacy) {
 
 
 
+
+
+//Single inheritance
+
 //npm init -y
 //tsc index.ts
 //node index.js
-//Single inheritance
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-20>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-20\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-20\src>node index.js
