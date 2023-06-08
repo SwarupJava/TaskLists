@@ -10,7 +10,10 @@ var tv = {
     }
 };
 tv.Print();
+//rules for methods
 //npm init y
 //tsc index.ts
 //node index.js
-//rules for methods
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-19>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-19\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-19\src>node index.js

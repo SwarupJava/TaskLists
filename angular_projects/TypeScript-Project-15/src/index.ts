@@ -10,7 +10,6 @@ console.log(Mfd.toLocaleDateString());
 
 
 
-
 //for time
 
 //npm init -y
