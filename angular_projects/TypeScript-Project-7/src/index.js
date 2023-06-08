@@ -6,3 +6,4 @@ console.log(result);
 //npm init -y
 //tsc index.ts
 //node index.js
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-7>npm init -y

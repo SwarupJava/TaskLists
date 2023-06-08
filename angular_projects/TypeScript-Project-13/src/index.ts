@@ -14,8 +14,12 @@ for(var key in product){
 
 
 
+//iterate to find all key and value
 
 //npm init -y
 //tsc index.ts
 //node index.js
-//iterate to find all key and value
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-13>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-13\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-13\src>node index.js

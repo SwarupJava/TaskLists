@@ -11,8 +11,12 @@ console.log(Mfd.toLocaleDateString());
 
 
 
+//for time
 
 //npm init -y
 //tsc index.ts
 //node index.js
-//for time
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-15>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-15\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-15\src>node index.js

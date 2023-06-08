@@ -12,7 +12,12 @@ for(var item of products){
 
 
 
+//iterate all data
+
 //npm init -y
 //tsc index.ts
 //node index.js
-//iterate all data
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12\src>node index.js

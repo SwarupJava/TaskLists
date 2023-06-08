@@ -18,7 +18,18 @@ product.Print();
 
 
 
+
+//data type should be any in typescript
+
 //npm init -y
 //tsc index.ts
 //node index.js
-//data type should be any in typescript
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-10>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-10\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-10\src>node index.js
+
+
+
+
+

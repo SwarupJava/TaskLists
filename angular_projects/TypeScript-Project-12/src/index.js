@@ -6,7 +6,10 @@ for (var _i = 0, products_1 = products; _i < products_1.length; _i++) {
     var item = products_1[_i];
     console.log(item.Name + "-" + item.Price);
 }
+//iterate all data
 //npm init -y
 //tsc index.ts
 //node index.js
-//iterate all data
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-12\src>node index.js
