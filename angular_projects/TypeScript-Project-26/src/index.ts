@@ -18,7 +18,12 @@ obj.Print();
 
 
 
+//Properties
+
 //npm index.ts
 //tsc index.ts
 //node index.js
-//Properties
+
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-26>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-26\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-26\src>node index.js

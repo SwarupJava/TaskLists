@@ -16,7 +16,10 @@ var obj2 = new Demo();
 obj2.Print();
 var obj3 = new Demo();
 obj3.Print();
+//Static and Non static members example
 //npm init -y
 //tsc index.ts
 //node index.js
-//Static and Non static members example
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-24>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-24\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-24\src>node index.js

@@ -37,7 +37,10 @@ var obj = new Derived();
 obj.Name;
 var obj1 = new Product();
 obj1.Name;
+//access modifers in class
 //npm init -y
 //tsc index.ts
 //node index.js
-//access modifers in class
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-25>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-25\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-25\src>node index.js
