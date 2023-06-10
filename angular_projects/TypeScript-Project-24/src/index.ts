@@ -21,7 +21,6 @@ obj3.Print();
 
 
 
-
 //Static and Non static members example
 
 //npm init -y

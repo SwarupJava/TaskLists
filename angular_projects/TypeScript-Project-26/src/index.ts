@@ -17,7 +17,6 @@ obj.Print();
 
 
 
-
 //Properties
 
 //npm index.ts

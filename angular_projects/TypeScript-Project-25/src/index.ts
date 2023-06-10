@@ -23,7 +23,6 @@ obj1.Name;
 
 
 
-
 //access modifers in class
 
 //npm init -y
