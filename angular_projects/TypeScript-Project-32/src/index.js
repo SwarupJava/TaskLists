@@ -14,7 +14,10 @@ var Product = /** @class */ (function () {
 var obj = new Product();
 //obj.Print("TV");
 obj.Print("TV", 45000.44);
+//choose anyone [obj.Print("TV") or obj.Print("TV", 45000.44)]
 //npm init -y
 //tsc index.ts
 //node index.js
-//choose anyone [obj.Print("TV") or obj.Print("TV", 45000.44)]
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-32>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-32\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-32\src>node index.js

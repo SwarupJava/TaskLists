@@ -17,3 +17,6 @@ tv.Print();
 //npm init -y
 //tsc index.ts
 //node index.js
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-29>npm init -y
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-29\src>tsc index.ts
+//D:\angularsudhakar\code\all_projects\angular_projects\TypeScript-Project-29\src>node index.js
