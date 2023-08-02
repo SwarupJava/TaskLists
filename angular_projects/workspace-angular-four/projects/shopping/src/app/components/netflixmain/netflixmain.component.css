@@ -1,0 +1,14 @@
+#background {
+    background-image: url("/assets/images.jpg");
+    background-size: contain;
+}
+
+#blockbackground{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 600px;
+    margin-left: -20px;
+    width: 100%;
+    justify-content: cenetr;
+    align-items: center;
+    display: flex;
+}
