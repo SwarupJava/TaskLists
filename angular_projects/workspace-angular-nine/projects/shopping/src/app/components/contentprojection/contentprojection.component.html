@@ -1,0 +1,22 @@
+<div calss="container-fluid">
+    <h2>Content-Projection</h2>
+    <div class>
+        <button (click)="Button1Click()">Then1</button>
+        <button (click)="Button2Click()">Then2</button>
+        <button (click)="Button3Click()">Then3</button>
+    </div>
+    <br>
+    <div *ngIf="true; else elseBlock; then thenBlock"></div>
+    <ng-template #elseBlock>
+        Else Block
+    </ng-template>
+    <ng-template #then1>
+        Then Block 1
+    </ng-template>
+    <ng-template #then2>
+        Then Block 2
+    </ng-template>
+    <ng-template #then3>
+        Then Block 3
+    </ng-template>
+</div>
