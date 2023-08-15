@@ -30,5 +30,4 @@ export class ContentprojectionComponent implements OnInit {
   Button3Click(){
     this.thenBlock = this.then3;
   }
-
 }
